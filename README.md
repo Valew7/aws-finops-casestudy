@@ -36,7 +36,7 @@ Used AWS Cost Explorer to break down costs by service and identify the culprits.
 ### 1. Identified unattached EBS volumes
 Found 3 volumes (10 GiB, 8 GiB, 26 GiB) not assigned to any instance.
 
-![Volúmenes EBS](./volumenes-ebs.png)
+![Volúmenes EBS](./volumentes-ebs.png)
 
 ### 2. Terminated Aurora DB instance
 The RDS/Aurora instance was the largest cost driver.
