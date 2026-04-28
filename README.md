@@ -1,4 +1,4 @@
-# AWS FinOps — Cost Reduction Case Study 💰
+# AWS FinOps -  Cost Reduction Case Study 
 
 Real cost optimization audit on a production AWS account.
 Reduced projected monthly spend from **$369/month to under $20/month**.
