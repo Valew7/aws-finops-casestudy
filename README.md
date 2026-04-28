@@ -9,7 +9,7 @@ Reduced projected monthly spend from **$369/month to under $20/month**.
 
 ## The Problem
 
-AWS bill was growing fast — **478% increase** month over month.
+AWS bill was growing fast  **478% increase** month over month.
 Projected cost for the month: **$369.14 USD**.
 
 ![Factura antes](./factura-antes.png)
@@ -45,7 +45,7 @@ The RDS/Aurora instance was the largest cost driver.
 ![Aurora eliminada](./aurora-eliminada.png)
 
 ### 3. Deleted QuickSight account
-Activated by mistake — never used in production.
+Activated by mistake, never used in production.
 
 ![QuickSight eliminado](./quicksight-eliminado.png)
 
